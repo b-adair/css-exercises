@@ -1,0 +1,14 @@
+.bandw {
+    background-color: black;
+    color: white;
+}
+
+.yandb {
+    background-color: yellow;
+}
+
+.bandw,
+.yandb {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
